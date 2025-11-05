@@ -1,0 +1,2 @@
+# TurbowarpExtensionCollection
+收集Turbowarp的扩展并为我们的官网为广大turbowarp玩家服务。Collect TurboWarp extensions and serve the broad TurboWarp player community through our official website（这意味着这里的大部分扩展或者说几乎全部的不属于我们，请下载后在代码中看注释来辨认作者
