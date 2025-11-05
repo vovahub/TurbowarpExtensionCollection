@@ -1,5 +1,6 @@
 # TurbowarpExtensionCollection
 收集Turbowarp的扩展并为我们的官网为广大turbowarp玩家服务。Collect TurboWarp extensions and serve the broad TurboWarp player community through our official website（这意味着这里的大部分扩展或者说几乎全部的不属于我们，请下载后在代码中看注释来辨认作者
+该库与 https://vovahub.github.io/xinghui/ 相关联，在我们的网站成功部署后您可以在网站上访问
 
 主要的：
 收集Turbowarp的扩展并为我们的官网为广大turbowarp玩家服务。（这意味着这里的大部分扩展或者说几乎全部的不属于我们，请下载后在代码中看注释来辨认作者和归属，独立的扩展js的归属属于他们的作者，和我们无关)
